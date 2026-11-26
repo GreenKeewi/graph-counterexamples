@@ -1,0 +1,47 @@
+{
+  "order": 19,
+  "maxDegree": 6,
+  "generator": "networkx.nonisomorphic_trees",
+  "networkx": "3.4.2",
+  "allTrees": 317955,
+  "eligibleTrees": 44195,
+  "distinctEligibleEdgeSignatures": 8188,
+  "maximum": {
+    "classes": 1,
+    "signatures": [
+      {
+        "classes": 1,
+        "edgeCounts": {
+          "1,6": 14,
+          "2,6": 4
+        }
+      }
+    ],
+    "score": {
+      "sqrt(3)": "8/3",
+      "sqrt(6)": "49/6"
+    },
+    "scale": "1000000000000000000",
+    "lowerNumerator": "24622968386246293914",
+    "strictUpperNumerator": "24622968386246293932"
+  },
+  "runnerUp": {
+    "classes": 1,
+    "signatures": [
+      {
+        "classes": 1,
+        "edgeCounts": {
+          "1,6": 15,
+          "3,6": 3
+        }
+      }
+    ],
+    "score": {
+      "sqrt(2)": "9/4",
+      "sqrt(6)": "35/4"
+    },
+    "scale": "1000000000000000000",
+    "lowerNumerator": "24615015764692272213",
+    "strictUpperNumerator": "24615015764692272231"
+  }
+}
